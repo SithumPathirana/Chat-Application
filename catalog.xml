@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/ChatApplication2_WS/UserService?wsdl" uri="xml-resources/web-service-references/UserService/wsdl/localhost_8080/ChatApplication2_WS/UserService.wsdl"/>
+    <system systemId="http://localhost:8080/ChatApplication2_WS/UserService?xsd=1" uri="xml-resources/web-service-references/UserService/wsdl/localhost_8080/ChatApplication2_WS/UserService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/ChatApplication2_WS/ChatService?wsdl" uri="xml-resources/web-service-references/ChatService/wsdl/localhost_8080/ChatApplication2_WS/ChatService.wsdl"/>
+    <system systemId="http://localhost:8080/ChatApplication2_WS/ChatService?xsd=1" uri="xml-resources/web-service-references/ChatService/wsdl/localhost_8080/ChatApplication2_WS/ChatService.xsd_1.xsd"/>
+</catalog>
